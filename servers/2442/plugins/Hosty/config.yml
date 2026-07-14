@@ -1,0 +1,9 @@
+
+    # Hosty configurations
+
+    # The webhook URL that is used in the channel
+    url: 'https://discord.com/api/webhooks/1476598446071877655/r8IGd9Ca8yMOxpHeLJFYUvjuJw6G7t4jqH19sSnB66y15e_XXTf6zK7UluSQo0GOpDTx'
+
+    # The port that is used to communicate with discord
+    port: 24421
+    
